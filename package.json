@@ -96,7 +96,7 @@
     "eslint-plugin-react": "~7.14.3",
     "flow-bin": "~0.107.0",
     "istanbul-instrumenter-loader": "^3.0.1",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "jasmine-core": "^3.4.0",
     "jasmine-enzyme": "~7.1.1",
     "karma": "^4.3.0",
