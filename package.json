@@ -99,7 +99,7 @@
     "jsdom": "^15.1.1",
     "jasmine-core": "^3.4.0",
     "jasmine-enzyme": "~7.1.1",
-    "karma": "^4.3.0",
+    "karma": "^6.4.1",
     "karma-coverage-istanbul-reporter": "~2.1.0",
     "karma-jsdom-launcher": "^7.1.0",
     "karma-html-reporter": "~0.2.7",
